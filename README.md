@@ -23,6 +23,8 @@ This project analyzes personal financial data to track income, expenses, and sav
 
 ## Preview
 (Add screenshots of your Power BI dashboard here)
+<img width="449" height="334" alt="Screenshot 2026-04-28 153409" src="https://github.com/user-attachments/assets/0e33dc08-072f-4024-8d4b-d3711417daf4" />
+
 
 ## What I Learned
 - How to structure raw data for analysis
