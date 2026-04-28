@@ -27,4 +27,4 @@ This project analyzes personal financial data to track income, expenses, and sav
 ## What I Learned
 - How to structure raw data for analysis
 - How to build relationships between datasets
-- How to create interactive dashboards
+- How to create interactive dashboards 
